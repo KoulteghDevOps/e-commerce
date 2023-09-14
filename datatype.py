@@ -1,0 +1,9 @@
+message = "enter some value" # string
+days = 20 # integer
+price = 30.99  # floats
+valid_number = True  # boolean
+exit_input = False
+lis_of_days = [20, 30, 40, 100] # list of digits
+list_of_months = ["January", "February", "March"] # list of strings
+set_of_days = {20, 50, 100, 20}  # filters repetition
+days_and_unit = {"days": 20, "unit": "hours"}
